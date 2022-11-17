@@ -1,0 +1,401 @@
+id,icon,name,description,run.keystone_run_id
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9289173
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9289173
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9289173
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9289173
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8742618
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",8742618
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",8742618
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8742618
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9715216
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9715216
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9715216
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9715216
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,8694203
+8,spell_shadow_bloodboil,Sanguine,"When slain, non-boss enemies leave behind a lingering pool of ichor that heals their allies and damages players.",8694203
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",8694203
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8694203
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7514918
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7514918
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7514918
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7514918
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9792916
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9792916
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9792916
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9792916
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9587720
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9587720
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9587720
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9587720
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9714670
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9714670
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9714670
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9714670
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,7765052
+7,ability_warrior_battleshout,Bolstering,"When any non-boss enemy dies, its death cry empowers nearby allies, temporarily increasing their maximum health by 15% and damage by 20%.",7765052
+14,spell_nature_earthquake,Quaking,"Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.",7765052
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7765052
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7597722
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7597722
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7597722
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7597722
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6521731
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6521731
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6521731
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6521731
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7284304
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7284304
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7284304
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7284304
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6358509
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6358509
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6358509
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6358509
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9249971
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9249971
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9249971
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9249971
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,6113725
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",6113725
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",6113725
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6113725
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7414853
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7414853
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7414853
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7414853
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8198009
+7,ability_warrior_battleshout,Bolstering,"When any non-boss enemy dies, its death cry empowers nearby allies, temporarily increasing their maximum health by 15% and damage by 20%.",8198009
+14,spell_nature_earthquake,Quaking,"Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.",8198009
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8198009
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6676745
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6676745
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6676745
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6676745
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7408219
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7408219
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7408219
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7408219
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,5562803
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",5562803
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",5562803
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,5562803
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9887091
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9887091
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9887091
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9887091
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,5150117
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",5150117
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",5150117
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,5150117
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9301479
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9301479
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9301479
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9301479
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,4760793
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",4760793
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",4760793
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,4760793
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7513998
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7513998
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7513998
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7513998
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,8347042
+8,spell_shadow_bloodboil,Sanguine,"When slain, non-boss enemies leave behind a lingering pool of ichor that heals their allies and damages players.",8347042
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",8347042
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8347042
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,8461706
+8,spell_shadow_bloodboil,Sanguine,"When slain, non-boss enemies leave behind a lingering pool of ichor that heals their allies and damages players.",8461706
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",8461706
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8461706
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,7785090
+7,ability_warrior_battleshout,Bolstering,"When any non-boss enemy dies, its death cry empowers nearby allies, temporarily increasing their maximum health by 15% and damage by 20%.",7785090
+14,spell_nature_earthquake,Quaking,"Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.",7785090
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7785090
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9188406
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",9188406
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",9188406
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9188406
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7094597
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7094597
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7094597
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7094597
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9709597
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9709597
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9709597
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9709597
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9180374
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",9180374
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",9180374
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9180374
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9713794
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9713794
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9713794
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9713794
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6462421
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6462421
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6462421
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6462421
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9681001
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9681001
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9681001
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9681001
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9680288
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9680288
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9680288
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9680288
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,5170886
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",5170886
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",5170886
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,5170886
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,8553725
+8,spell_shadow_bloodboil,Sanguine,"When slain, non-boss enemies leave behind a lingering pool of ichor that heals their allies and damages players.",8553725
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",8553725
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8553725
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8773071
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",8773071
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",8773071
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8773071
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6901478
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6901478
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6901478
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6901478
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9586036
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9586036
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9586036
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9586036
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9669523
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9669523
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9669523
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9669523
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9587476
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9587476
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9587476
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9587476
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9884680
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9884680
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9884680
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9884680
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9666035
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9666035
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9666035
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9666035
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8130269
+7,ability_warrior_battleshout,Bolstering,"When any non-boss enemy dies, its death cry empowers nearby allies, temporarily increasing their maximum health by 15% and damage by 20%.",8130269
+14,spell_nature_earthquake,Quaking,"Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.",8130269
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8130269
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7581403
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7581403
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7581403
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7581403
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8888309
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",8888309
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",8888309
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8888309
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6911462
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6911462
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6911462
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6911462
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,8467992
+8,spell_shadow_bloodboil,Sanguine,"When slain, non-boss enemies leave behind a lingering pool of ichor that heals their allies and damages players.",8467992
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",8467992
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8467992
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9245954
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9245954
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9245954
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9245954
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6915910
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6915910
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6915910
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6915910
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8815671
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",8815671
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",8815671
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8815671
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9234820
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9234820
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9234820
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9234820
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9791312
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9791312
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9791312
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9791312
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9532671
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9532671
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9532671
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9532671
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,5027036
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",5027036
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",5027036
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,5027036
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9403591
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9403591
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9403591
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9403591
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6813084
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6813084
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6813084
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6813084
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,4987969
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",4987969
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",4987969
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,4987969
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6578051
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6578051
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6578051
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6578051
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6805482
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6805482
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6805482
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6805482
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9245098
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9245098
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9245098
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9245098
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8215271
+7,ability_warrior_battleshout,Bolstering,"When any non-boss enemy dies, its death cry empowers nearby allies, temporarily increasing their maximum health by 15% and damage by 20%.",8215271
+14,spell_nature_earthquake,Quaking,"Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.",8215271
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8215271
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9840620
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9840620
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9840620
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9840620
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6456466
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6456466
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6456466
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6456466
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,4824071
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",4824071
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",4824071
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,4824071
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9704474
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9704474
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9704474
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9704474
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,5720615
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",5720615
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",5720615
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,5720615
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6563116
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6563116
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6563116
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6563116
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9475843
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9475843
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9475843
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9475843
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,8700867
+8,spell_shadow_bloodboil,Sanguine,"When slain, non-boss enemies leave behind a lingering pool of ichor that heals their allies and damages players.",8700867
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",8700867
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8700867
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6692644
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6692644
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6692644
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6692644
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6446798
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6446798
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6446798
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6446798
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9762521
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9762521
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9762521
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9762521
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8954189
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",8954189
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",8954189
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8954189
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6815784
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6815784
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6815784
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6815784
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8892100
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",8892100
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",8892100
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8892100
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6708342
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6708342
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6708342
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6708342
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6435711
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6435711
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6435711
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6435711
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9882195
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9882195
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9882195
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9882195
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9588077
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9588077
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9588077
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9588077
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,9714680
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,9714680
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,9714680
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9714680
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6212532
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6212532
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6212532
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6212532
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,5468168
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",5468168
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",5468168
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,5468168
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9593433
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9593433
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9593433
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9593433
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9293209
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9293209
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9293209
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9293209
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7510020
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7510020
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7510020
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7510020
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9354417
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9354417
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9354417
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9354417
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,7780767
+7,ability_warrior_battleshout,Bolstering,"When any non-boss enemy dies, its death cry empowers nearby allies, temporarily increasing their maximum health by 15% and damage by 20%.",7780767
+14,spell_nature_earthquake,Quaking,"Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.",7780767
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7780767
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6863713
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6863713
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6863713
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6863713
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9488415
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9488415
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9488415
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9488415
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,8780609
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",8780609
+13,spell_fire_felflamering_red,Explosive,"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",8780609
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,8780609
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,4605088
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",4605088
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",4605088
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,4605088
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,9577401
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",9577401
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",9577401
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,9577401
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,5450741
+6,ability_warrior_focusedrage,Raging,"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated.",5450741
+3,spell_shaman_lavasurge,Volcanic,"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",5450741
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,5450741
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6932253
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6932253
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6932253
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6932253
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,4115736
+11,ability_ironmaidens_whirlofblood,Bursting,"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",4115736
+124,spell_nature_cyclone,Storming,"While in combat, enemies periodically summon damaging whirlwinds.",4115736
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,4115736
+9,achievement_boss_archaedas,Tyrannical,Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.,7045383
+123,spell_holy_prayerofshadowprotection,Spiteful,Fiends rise from the corpses of non-boss enemies and pursue random players.,7045383
+4,spell_deathknight_necroticplague,Necrotic,All enemies' melee attacks apply a stacking blight that inflicts damage over time and reduces healing received.,7045383
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,7045383
+10,ability_toughness,Fortified,Non-boss enemies have 20% more health and inflict up to 30% increased damage.,6944108
+122,spell_holy_prayerofspirit,Inspiring,Some non-boss enemies have an inspiring presence that strengthens their allies.,6944108
+12,ability_backstab,Grievous,Injured players suffer increasing damage over time until healed.,6944108
+131,spell_shadow_nethercloak,Shrouded,Nathrezim infiltrators have disguised themselves among enemies throughout the dungeon. Cartel Ta will reward you handsomely for assisting in their capture.,6944108

@@ -1,0 +1,501 @@
+role,character.id,character.persona_id,character.name,character.class.id,character.class.name,character.race.id,character.race.name,character.faction,character.spec.id,character.spec.name,character.realm.id,character.realm.connectedRealmId,character.realm.name,run.keystone_run_id
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,9289173
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,9289173
+dps,105221351,22922059,Gottemz,3,Hunter,1,Human,alliance,255,Survival,264,136,Area 52,9289173
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,9289173
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,9289173
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,8742618
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,8742618
+dps,105221351,22922059,Gottemz,3,Hunter,1,Human,alliance,255,Survival,264,136,Area 52,8742618
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,8742618
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,8742618
+dps,57350559,11847397,Zepherous,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,9715216
+dps,83234436,9301052,Aterrorist,3,Hunter,1,Human,alliance,255,Survival,345,192,Frostmourne,9715216
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,9715216
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9715216
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9715216
+dps,104845703,38180444,Jpcarve,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,8694203
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,8694203
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,8694203
+dps,105221351,22922059,Gottemz,3,Hunter,1,Human,alliance,255,Survival,264,136,Area 52,8694203
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,8694203
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,7514918
+healer,104914180,17132452,Timbermawp,5,Priest,4,Night Elf,alliance,257,Holy,491,240,Zul'jin,7514918
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7514918
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,7514918
+dps,108368531,16240443,Junkratxd-108368531,4,Rogue,10,Blood Elf,horde,260,Outlaw,264,136,Area 52,7514918
+healer,107103406,3096297,Aerithx,5,Priest,4,Night Elf,alliance,257,Holy,404,220,Moon Guard,9792916
+dps,108223322,29121830,Avibe,3,Hunter,3,Dwarf,alliance,255,Survival,264,136,Area 52,9792916
+tank,108451214,10609671,Snapxd,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,9792916
+dps,109129460,37682293,Oxinator,1,Warrior,4,Night Elf,alliance,72,Fury,264,136,Area 52,9792916
+dps,109129461,37963758,Batzuul,9,Warlock,3,Dwarf,alliance,267,Destruction,367,205,Hyjal,9792916
+dps,57350559,11847397,Zepherous,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,9587720
+dps,83234436,9301052,Aterrorist,3,Hunter,1,Human,alliance,255,Survival,345,192,Frostmourne,9587720
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,9587720
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9587720
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9587720
+dps,57350559,11847397,Zepherous,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,9714670
+dps,83234436,9301052,Aterrorist,3,Hunter,1,Human,alliance,255,Survival,345,192,Frostmourne,9714670
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,9714670
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9714670
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9714670
+dps,104845703,38180444,Jpcarve,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7765052
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,7765052
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,7765052
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,7765052
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,7765052
+dps,104845703,38180444,Jpcarve,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7597722
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,7597722
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,7597722
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,7597722
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,7597722
+dps,99897466,9201927,Nickboltz,9,Warlock,2,Orc,horde,267,Destruction,396,216,Mal'Ganis,6521731
+healer,103771315,2928566,Jakbcastin,5,Priest,10,Blood Elf,horde,257,Holy,284,154,Bleeding Hollow,6521731
+tank,107107062,17924518,Qazidk,6,Death Knight,10,Blood Elf,horde,250,Blood,292,206,Burning Blade,6521731
+dps,107186607,5240675,Carmeezy-107186607,3,Hunter,3,Dwarf,alliance,255,Survival,468,236,Tichondrius,6521731
+dps,108665108,9964997,Humanitydh-108665108,12,Demon Hunter,4,Night Elf,alliance,577,Havoc,491,240,Zul'jin,6521731
+dps,104845703,38180444,Jpcarve,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7284304
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,7284304
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,7284304
+dps,107261901,38390979,Splatlack,9,Warlock,2,Orc,horde,266,Demonology,369,207,Illidan,7284304
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,7284304
+dps,105173462,34295354,Lilflamer-105173462,9,Warlock,3,Dwarf,alliance,267,Destruction,264,136,Area 52,6358509
+dps,105673216,18708538,Ghxsth,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6358509
+tank,106834935,37170090,Frostydw-106834935,6,Death Knight,3,Dwarf,alliance,250,Blood,369,207,Illidan,6358509
+dps,107096715,9964926,Tjuanalpha,1,Warrior,4,Night Elf,alliance,72,Fury,369,207,Illidan,6358509
+healer,108195005,38304233,Kigitude,5,Priest,3,Dwarf,alliance,257,Holy,369,207,Illidan,6358509
+healer,107103406,3096297,Aerithx,5,Priest,4,Night Elf,alliance,257,Holy,404,220,Moon Guard,9249971
+tank,108451214,10609671,Snapxd,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,9249971
+dps,108628245,32471484,Homiewitapet,3,Hunter,2,Orc,horde,255,Survival,334,185,Emerald Dream,9249971
+dps,109129460,37682293,Oxinator,1,Warrior,4,Night Elf,alliance,72,Fury,264,136,Area 52,9249971
+dps,109129461,37963758,Batzuul,9,Warlock,3,Dwarf,alliance,267,Destruction,367,205,Hyjal,9249971
+healer,104686917,28958103,Yumy-104686917,5,Priest,3,Dwarf,alliance,257,Holy,379,210,Kil'jaeden,6113725
+dps,104813414,23081157,Pxh,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,6113725
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,6113725
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6113725
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,6113725
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,7414853
+healer,104914180,17132452,Timbermawp,5,Priest,4,Night Elf,alliance,257,Holy,491,240,Zul'jin,7414853
+dps,107381779,212602,Xyroblast,8,Mage,3,Dwarf,alliance,63,Fire,396,216,Mal'Ganis,7414853
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,7414853
+dps,108368531,16240443,Junkratxd-108368531,4,Rogue,10,Blood Elf,horde,260,Outlaw,264,136,Area 52,7414853
+dps,25191484,16528268,Aofa,8,Mage,4,Night Elf,alliance,63,Fire,419,224,Proudmoore,8198009
+dps,105039583,37958336,Haodaya,9,Warlock,1,Human,alliance,267,Destruction,369,207,Illidan,8198009
+tank,106385670,20905873,Deadmission-106385670,6,Death Knight,4,Night Elf,alliance,250,Blood,369,207,Illidan,8198009
+dps,106839518,31445899,Haoheiya,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,8198009
+healer,108107077,38328641,Treenewbelem,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,8198009
+dps,25191484,16528268,Aofa,8,Mage,4,Night Elf,alliance,63,Fire,419,224,Proudmoore,6676745
+dps,105039583,37958336,Haodaya,9,Warlock,1,Human,alliance,267,Destruction,369,207,Illidan,6676745
+tank,106385670,20905873,Deadmission-106385670,6,Death Knight,4,Night Elf,alliance,250,Blood,369,207,Illidan,6676745
+dps,106839518,31445899,Haoheiya,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6676745
+healer,108107077,38328641,Treenewbelem,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,6676745
+dps,104845703,38180444,Jpcarve,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7408219
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,7408219
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,7408219
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,7408219
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,7408219
+tank,104804933,2083583,Gregddk,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,5562803
+dps,104813414,23081157,Pxh,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,5562803
+dps,104904313,8750786,Dabnel,10,Monk,3,Dwarf,alliance,269,Windwalker,264,136,Area 52,5562803
+healer,105107604,238833,Lgaslidgfhai,5,Priest,4,Night Elf,alliance,257,Holy,396,216,Mal'Ganis,5562803
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,5562803
+dps,12640243,8200908,Feardottab,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9887091
+dps,83205129,36968033,Cerîturîa,3,Hunter,4,Night Elf,alliance,255,Survival,345,192,Frostmourne,9887091
+dps,85164912,28638071,Lavenders,4,Rogue,34,Dark Iron Dwarf,alliance,260,Outlaw,345,192,Frostmourne,9887091
+healer,104898534,20107546,Etiquette,5,Priest,4,Night Elf,alliance,257,Holy,345,192,Frostmourne,9887091
+tank,105638733,24006557,Jaccflop,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9887091
+healer,104686917,28958103,Yumy-104686917,5,Priest,3,Dwarf,alliance,257,Holy,379,210,Kil'jaeden,5150117
+tank,105532233,22299704,Dwarfgoh,2,Paladin,3,Dwarf,alliance,66,Protection,264,136,Area 52,5150117
+dps,107096715,9964926,Tjuanalpha,1,Warrior,4,Night Elf,alliance,72,Fury,369,207,Illidan,5150117
+dps,107381779,212602,Xyroblast,8,Mage,3,Dwarf,alliance,63,Fire,396,216,Mal'Ganis,5150117
+dps,107830331,37924547,Juicydrop,3,Hunter,3,Dwarf,alliance,255,Survival,264,136,Area 52,5150117
+dps,102713218,328628,Shadowmastr,4,Rogue,2,Orc,horde,260,Outlaw,396,216,Mal'Ganis,9301479
+tank,105102830,39043116,Yodadk,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,369,207,Illidan,9301479
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,9301479
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,9301479
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,9301479
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,4760793
+dps,104911385,8274435,Flawlessxo,10,Monk,3,Dwarf,alliance,269,Windwalker,491,240,Zul'jin,4760793
+healer,104914180,17132452,Timbermawp,5,Priest,4,Night Elf,alliance,257,Holy,491,240,Zul'jin,4760793
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,4760793
+tank,105532233,22299704,Dwarfgoh,2,Paladin,3,Dwarf,alliance,66,Protection,264,136,Area 52,4760793
+dps,25191484,16528268,Aofa,8,Mage,4,Night Elf,alliance,63,Fire,419,224,Proudmoore,7513998
+dps,105039583,37958336,Haodaya,9,Warlock,1,Human,alliance,267,Destruction,369,207,Illidan,7513998
+tank,106385670,20905873,Deadmission-106385670,6,Death Knight,4,Night Elf,alliance,250,Blood,369,207,Illidan,7513998
+dps,106839518,31445899,Haoheiya,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7513998
+healer,108107077,38328641,Treenewbelem,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,7513998
+dps,57521622,12681073,Ássh,3,Hunter,10,Blood Elf,horde,255,Survival,422,227,Ragnaros,8347042
+dps,89534454,35720829,Lhz,8,Mage,2,Orc,horde,63,Fire,271,143,Azralon,8347042
+dps,105613024,38544876,Battantmrg,9,Warlock,3,Dwarf,alliance,267,Destruction,271,143,Azralon,8347042
+tank,105614278,36374885,Maølayking,6,Death Knight,3,Dwarf,alliance,250,Blood,271,143,Azralon,8347042
+healer,106311778,36798736,Claudinéte-106311778,5,Priest,4,Night Elf,alliance,257,Holy,271,143,Azralon,8347042
+dps,104864283,8599204,Spacemonkey-104864283,9,Warlock,3,Dwarf,alliance,266,Demonology,396,216,Mal'Ganis,8461706
+tank,105102830,39043116,Yodadk,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,369,207,Illidan,8461706
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,8461706
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,8461706
+dps,108368531,16240443,Junkratxd-108368531,4,Rogue,10,Blood Elf,horde,260,Outlaw,264,136,Area 52,8461706
+dps,26577678,18998914,Shn,9,Warlock,3,Dwarf,alliance,267,Destruction,345,192,Frostmourne,7785090
+dps,57432547,30700715,Garchomprokz,8,Mage,1,Human,alliance,63,Fire,345,192,Frostmourne,7785090
+dps,101131167,38209883,Equitard,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,7785090
+healer,104898534,20107546,Etiquette,5,Priest,4,Night Elf,alliance,257,Holy,345,192,Frostmourne,7785090
+tank,105899856,7028087,Tankprison,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,7785090
+tank,105102830,39043116,Yodadk,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,369,207,Illidan,9188406
+dps,105221351,22922059,Gottemz,3,Hunter,1,Human,alliance,255,Survival,264,136,Area 52,9188406
+healer,105964577,291334,Paipapls,5,Priest,4,Night Elf,alliance,257,Holy,465,235,Thrall,9188406
+dps,108293221,16232743,Prupru,9,Warlock,3,Dwarf,alliance,267,Destruction,368,206,Icecrown,9188406
+dps,108446208,2677729,Vashyx,4,Rogue,4,Night Elf,alliance,260,Outlaw,468,236,Tichondrius,9188406
+dps,99897466,9201927,Nickboltz,9,Warlock,2,Orc,horde,267,Destruction,396,216,Mal'Ganis,7094597
+healer,103771315,2928566,Jakbcastin,5,Priest,10,Blood Elf,horde,257,Holy,284,154,Bleeding Hollow,7094597
+tank,107107062,17924518,Qazidk,6,Death Knight,10,Blood Elf,horde,250,Blood,292,206,Burning Blade,7094597
+dps,107186607,5240675,Carmeezy-107186607,3,Hunter,3,Dwarf,alliance,255,Survival,468,236,Tichondrius,7094597
+dps,108665108,9964997,Humanitydh-108665108,12,Demon Hunter,4,Night Elf,alliance,577,Havoc,491,240,Zul'jin,7094597
+dps,89602844,8525774,Karmma,9,Warlock,3,Dwarf,alliance,267,Destruction,452,233,Stormrage,9709597
+dps,98277822,37979248,Smokesignal,3,Hunter,3,Dwarf,alliance,255,Survival,452,233,Stormrage,9709597
+tank,107126349,0,Gauchislap,6,Death Knight,3,Dwarf,alliance,250,Blood,452,233,Stormrage,9709597
+healer,109110929,33759675,Snowrat,5,Priest,9,Goblin,horde,257,Holy,284,154,Bleeding Hollow,9709597
+dps,109708876,25757532,Oatsy,3,Hunter,3,Dwarf,alliance,255,Survival,491,240,Zul'jin,9709597
+dps,60439963,27755343,Nîener,3,Hunter,6,Tauren,horde,255,Survival,468,236,Tichondrius,9180374
+tank,90227104,28359578,Schlim,6,Death Knight,9,Goblin,horde,250,Blood,264,136,Area 52,9180374
+dps,105186983,29073496,Sarïn,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,9180374
+healer,106161827,6781096,Koozå,5,Priest,4,Night Elf,alliance,257,Holy,264,136,Area 52,9180374
+dps,108131362,1707635,Lygerxd,3,Hunter,3,Dwarf,alliance,255,Survival,396,216,Mal'Ganis,9180374
+dps,26577678,18998914,Shn,9,Warlock,3,Dwarf,alliance,267,Destruction,345,192,Frostmourne,9713794
+dps,57432547,30700715,Garchomprokz,8,Mage,1,Human,alliance,63,Fire,345,192,Frostmourne,9713794
+dps,101131167,38209883,Equitard,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,9713794
+healer,104898534,20107546,Etiquette,5,Priest,4,Night Elf,alliance,257,Holy,345,192,Frostmourne,9713794
+tank,105638733,24006557,Jaccflop,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9713794
+dps,104845703,38180444,Jpcarve,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6462421
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,6462421
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,6462421
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,6462421
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,6462421
+dps,57350559,11847397,Zepherous,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,9681001
+dps,83234436,9301052,Aterrorist,3,Hunter,1,Human,alliance,255,Survival,345,192,Frostmourne,9681001
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,9681001
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9681001
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9681001
+dps,57350559,11847397,Zepherous,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,9680288
+dps,83234436,9301052,Aterrorist,3,Hunter,1,Human,alliance,255,Survival,345,192,Frostmourne,9680288
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,9680288
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9680288
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9680288
+dps,26577678,18998914,Shn,9,Warlock,3,Dwarf,alliance,267,Destruction,345,192,Frostmourne,5170886
+dps,57432547,30700715,Garchomprokz,8,Mage,1,Human,alliance,63,Fire,345,192,Frostmourne,5170886
+dps,85164911,5850772,Hunterbën,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,5170886
+healer,104898534,20107546,Etiquette,5,Priest,4,Night Elf,alliance,257,Holy,345,192,Frostmourne,5170886
+tank,105899856,7028087,Tankprison,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,5170886
+dps,105077325,28821687,Shodam,9,Warlock,3,Dwarf,alliance,267,Destruction,264,136,Area 52,8553725
+dps,106180080,22819752,Mahleen,3,Hunter,3,Dwarf,alliance,255,Survival,491,240,Zul'jin,8553725
+tank,107107062,17924518,Qazidk,6,Death Knight,10,Blood Elf,horde,250,Blood,292,206,Burning Blade,8553725
+healer,107952961,2099540,Dontdodrugs-107952961,5,Priest,3,Dwarf,alliance,257,Holy,369,207,Illidan,8553725
+dps,108875527,20133476,Qwikstab-108875527,4,Rogue,4,Night Elf,alliance,260,Outlaw,468,236,Tichondrius,8553725
+dps,104751550,31731492,Yodakh,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,8773071
+healer,107103406,3096297,Aerithx,5,Priest,4,Night Elf,alliance,257,Holy,404,220,Moon Guard,8773071
+tank,108451214,10609671,Snapxd,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,8773071
+dps,109129460,37682293,Oxinator,1,Warrior,4,Night Elf,alliance,72,Fury,264,136,Area 52,8773071
+dps,109129461,37963758,Batzuul,9,Warlock,3,Dwarf,alliance,267,Destruction,367,205,Hyjal,8773071
+healer,104686917,28958103,Yumy-104686917,5,Priest,3,Dwarf,alliance,257,Holy,379,210,Kil'jaeden,6901478
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,6901478
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6901478
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,6901478
+dps,108368531,16240443,Junkratxd-108368531,4,Rogue,10,Blood Elf,horde,260,Outlaw,264,136,Area 52,6901478
+dps,57350559,11847397,Zepherous,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,9586036
+dps,83234436,9301052,Aterrorist,3,Hunter,1,Human,alliance,255,Survival,345,192,Frostmourne,9586036
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,9586036
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9586036
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9586036
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,9669523
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,9669523
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,9669523
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,9669523
+dps,109897617,16240443,Junkratxd,4,Rogue,4,Night Elf,alliance,260,Outlaw,264,136,Area 52,9669523
+dps,26577678,18998914,Shn,9,Warlock,3,Dwarf,alliance,267,Destruction,345,192,Frostmourne,9587476
+dps,57432547,30700715,Garchomprokz,8,Mage,1,Human,alliance,63,Fire,345,192,Frostmourne,9587476
+dps,101131167,38209883,Equitard,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,9587476
+healer,104898534,20107546,Etiquette,5,Priest,4,Night Elf,alliance,257,Holy,345,192,Frostmourne,9587476
+tank,105899856,7028087,Tankprison,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9587476
+dps,80594060,13221744,Blindsurgeon,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,9884680
+dps,83234436,9301052,Aterrorist,3,Hunter,1,Human,alliance,255,Survival,345,192,Frostmourne,9884680
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,9884680
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9884680
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9884680
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,9666035
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,9666035
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,9666035
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,9666035
+dps,109897617,16240443,Junkratxd,4,Rogue,4,Night Elf,alliance,260,Outlaw,264,136,Area 52,9666035
+dps,105077325,28821687,Shodam,9,Warlock,3,Dwarf,alliance,267,Destruction,264,136,Area 52,8130269
+tank,106897243,8193232,Snówflake,6,Death Knight,4,Night Elf,alliance,250,Blood,292,206,Burning Blade,8130269
+healer,107952961,2099540,Dontdodrugs-107952961,5,Priest,3,Dwarf,alliance,257,Holy,369,207,Illidan,8130269
+dps,108875527,20133476,Qwikstab-108875527,4,Rogue,4,Night Elf,alliance,260,Outlaw,468,236,Tichondrius,8130269
+dps,109258648,5240675,Carmeezy,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,8130269
+dps,104845703,38180444,Jpcarve,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7581403
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,7581403
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,7581403
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,7581403
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,7581403
+dps,102713218,328628,Shadowmastr,4,Rogue,2,Orc,horde,260,Outlaw,396,216,Mal'Ganis,8888309
+tank,105102830,39043116,Yodadk,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,369,207,Illidan,8888309
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,8888309
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,8888309
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,8888309
+healer,105084972,5339397,Lërne,7,Shaman,3,Dwarf,alliance,264,Restoration,264,136,Area 52,6911462
+dps,105155325,27970238,Kesstickler,3,Hunter,3,Dwarf,alliance,255,Survival,491,240,Zul'jin,6911462
+dps,105672616,8097210,Chungess,4,Rogue,3,Dwarf,alliance,260,Outlaw,428,231,Sargeras,6911462
+tank,107099046,132553,Kyrasis,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,6911462
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,6911462
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,8467992
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,8467992
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,8467992
+dps,105221351,22922059,Gottemz,3,Hunter,1,Human,alliance,255,Survival,264,136,Area 52,8467992
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,8467992
+healer,104686917,28958103,Yumy-104686917,5,Priest,3,Dwarf,alliance,257,Holy,379,210,Kil'jaeden,9245954
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,9245954
+dps,107830331,37924547,Juicydrop,3,Hunter,3,Dwarf,alliance,255,Survival,264,136,Area 52,9245954
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,9245954
+dps,109897617,16240443,Junkratxd,4,Rogue,4,Night Elf,alliance,260,Outlaw,264,136,Area 52,9245954
+dps,99897466,9201927,Nickboltz,9,Warlock,2,Orc,horde,267,Destruction,396,216,Mal'Ganis,6915910
+healer,103771315,2928566,Jakbcastin,5,Priest,10,Blood Elf,horde,257,Holy,284,154,Bleeding Hollow,6915910
+tank,107107062,17924518,Qazidk,6,Death Knight,10,Blood Elf,horde,250,Blood,292,206,Burning Blade,6915910
+dps,107186607,5240675,Carmeezy-107186607,3,Hunter,3,Dwarf,alliance,255,Survival,468,236,Tichondrius,6915910
+dps,108795717,8193231,Supernovi,8,Mage,4,Night Elf,alliance,63,Fire,292,206,Burning Blade,6915910
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,8815671
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,8815671
+dps,105221351,22922059,Gottemz,3,Hunter,1,Human,alliance,255,Survival,264,136,Area 52,8815671
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,8815671
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,8815671
+dps,102713218,328628,Shadowmastr,4,Rogue,2,Orc,horde,260,Outlaw,396,216,Mal'Ganis,9234820
+dps,104864283,8599204,Spacemonkey-104864283,9,Warlock,3,Dwarf,alliance,267,Destruction,396,216,Mal'Ganis,9234820
+tank,105102830,39043116,Yodadk,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,369,207,Illidan,9234820
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,9234820
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,9234820
+healer,107103406,3096297,Aerithx,5,Priest,4,Night Elf,alliance,257,Holy,404,220,Moon Guard,9791312
+dps,108223322,29121830,Avibe,3,Hunter,3,Dwarf,alliance,255,Survival,264,136,Area 52,9791312
+tank,108451214,10609671,Snapxd,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,9791312
+dps,109129460,37682293,Oxinator,1,Warrior,4,Night Elf,alliance,72,Fury,264,136,Area 52,9791312
+dps,109129461,37963758,Batzuul,9,Warlock,3,Dwarf,alliance,267,Destruction,367,205,Hyjal,9791312
+dps,57468630,7977430,Banshers,3,Hunter,3,Dwarf,alliance,255,Survival,452,233,Stormrage,9532671
+tank,57622772,7443091,Céle,6,Death Knight,10,Blood Elf,horde,250,Blood,264,136,Area 52,9532671
+dps,105526738,20042696,Toastedbuns,8,Mage,3,Dwarf,alliance,63,Fire,396,216,Mal'Ganis,9532671
+healer,105628699,38707497,Bussbussglug,5,Priest,4,Night Elf,alliance,257,Holy,468,236,Tichondrius,9532671
+dps,106083771,30632453,Mythickal,9,Warlock,3,Dwarf,alliance,267,Destruction,264,136,Area 52,9532671
+tank,104804933,2083583,Gregddk,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,5027036
+dps,104813414,23081157,Pxh,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,5027036
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,5027036
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,5027036
+healer,105507865,28566837,Twicks,5,Priest,9,Goblin,horde,257,Holy,264,136,Area 52,5027036
+healer,107103406,3096297,Aerithx,5,Priest,4,Night Elf,alliance,257,Holy,404,220,Moon Guard,9403591
+tank,108451214,10609671,Snapxd,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,9403591
+dps,108628245,32471484,Homiewitapet,3,Hunter,2,Orc,horde,255,Survival,334,185,Emerald Dream,9403591
+dps,109129460,37682293,Oxinator,1,Warrior,4,Night Elf,alliance,72,Fury,264,136,Area 52,9403591
+dps,109129461,37963758,Batzuul,9,Warlock,3,Dwarf,alliance,267,Destruction,367,205,Hyjal,9403591
+healer,104686917,28958103,Yumy-104686917,5,Priest,3,Dwarf,alliance,257,Holy,379,210,Kil'jaeden,6813084
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,6813084
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,6813084
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6813084
+dps,108368531,16240443,Junkratxd-108368531,4,Rogue,10,Blood Elf,horde,260,Outlaw,264,136,Area 52,6813084
+healer,104686917,28958103,Yumy-104686917,5,Priest,3,Dwarf,alliance,257,Holy,379,210,Kil'jaeden,4987969
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,4987969
+dps,104911385,8274435,Flawlessxo,10,Monk,3,Dwarf,alliance,269,Windwalker,491,240,Zul'jin,4987969
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,4987969
+tank,105532233,22299704,Dwarfgoh,2,Paladin,3,Dwarf,alliance,66,Protection,264,136,Area 52,4987969
+dps,80594060,13221744,Blindsurgeon,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,6578051
+dps,83234436,9301052,Aterrorist,3,Hunter,1,Human,alliance,255,Survival,345,192,Frostmourne,6578051
+dps,98465201,38061240,Staypoorw,9,Warlock,3,Dwarf,alliance,267,Destruction,345,192,Frostmourne,6578051
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,6578051
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,6578051
+dps,25191484,16528268,Aofa,8,Mage,4,Night Elf,alliance,63,Fire,419,224,Proudmoore,6805482
+dps,105039583,37958336,Haodaya,9,Warlock,1,Human,alliance,267,Destruction,369,207,Illidan,6805482
+tank,106385670,20905873,Deadmission-106385670,6,Death Knight,4,Night Elf,alliance,250,Blood,369,207,Illidan,6805482
+dps,106839518,31445899,Haoheiya,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6805482
+healer,108107077,38328641,Treenewbelem,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,6805482
+tank,57622772,7443091,Céle,6,Death Knight,10,Blood Elf,horde,250,Blood,264,136,Area 52,9245098
+dps,104888729,31225729,Garronan,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,9245098
+healer,105628699,38707497,Bussbussglug,5,Priest,4,Night Elf,alliance,257,Holy,468,236,Tichondrius,9245098
+dps,106083771,30632453,Mythickal,9,Warlock,3,Dwarf,alliance,267,Destruction,264,136,Area 52,9245098
+dps,108540428,31261473,Nepxh-108540428,3,Hunter,3,Dwarf,alliance,255,Survival,396,216,Mal'Ganis,9245098
+healer,107103406,3096297,Aerithx,5,Priest,4,Night Elf,alliance,257,Holy,404,220,Moon Guard,8215271
+tank,108451214,10609671,Snapxd,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,8215271
+dps,108628245,32471484,Homiewitapet,3,Hunter,2,Orc,horde,255,Survival,334,185,Emerald Dream,8215271
+dps,109129460,37682293,Oxinator,1,Warrior,4,Night Elf,alliance,72,Fury,264,136,Area 52,8215271
+dps,109129461,37963758,Batzuul,9,Warlock,3,Dwarf,alliance,267,Destruction,367,205,Hyjal,8215271
+healer,107103406,3096297,Aerithx,5,Priest,4,Night Elf,alliance,257,Holy,404,220,Moon Guard,9840620
+dps,108223322,29121830,Avibe,3,Hunter,3,Dwarf,alliance,255,Survival,264,136,Area 52,9840620
+tank,108451214,10609671,Snapxd,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,9840620
+dps,109129461,37963758,Batzuul,9,Warlock,3,Dwarf,alliance,267,Destruction,367,205,Hyjal,9840620
+dps,109897617,16240443,Junkratxd,4,Rogue,4,Night Elf,alliance,260,Outlaw,264,136,Area 52,9840620
+dps,104845703,38180444,Jpcarve,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6456466
+healer,104868975,20566091,Ellesmére,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,6456466
+tank,105091769,3351014,Nerfdeath,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,264,136,Area 52,6456466
+dps,107356781,14304328,Onezywl,9,Warlock,3,Dwarf,alliance,267,Destruction,369,207,Illidan,6456466
+dps,108169564,4088608,Azunaz-108169564,8,Mage,4,Night Elf,alliance,63,Fire,369,207,Illidan,6456466
+dps,104751550,31731492,Yodakh,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,4824071
+tank,104804933,2083583,Gregddk,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,4824071
+dps,104813414,23081157,Pxh,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,4824071
+dps,104904313,8750786,Dabnel,10,Monk,3,Dwarf,alliance,269,Windwalker,264,136,Area 52,4824071
+healer,105107604,238833,Lgaslidgfhai,5,Priest,4,Night Elf,alliance,257,Holy,396,216,Mal'Ganis,4824071
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,9704474
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,9704474
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,9704474
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,9704474
+dps,109897617,16240443,Junkratxd,4,Rogue,4,Night Elf,alliance,260,Outlaw,264,136,Area 52,9704474
+tank,104804933,2083583,Gregddk,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,5720615
+dps,104813414,23081157,Pxh,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,5720615
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,5720615
+healer,105107604,238833,Lgaslidgfhai,5,Priest,4,Night Elf,alliance,257,Holy,396,216,Mal'Ganis,5720615
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,5720615
+dps,105155325,27970238,Kesstickler,3,Hunter,3,Dwarf,alliance,255,Survival,491,240,Zul'jin,6563116
+tank,105503649,38156105,Kommitdk,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,6563116
+dps,108293221,16232743,Prupru,9,Warlock,3,Dwarf,alliance,267,Destruction,368,206,Icecrown,6563116
+healer,108436223,38291555,Bluemooñ,5,Priest,4,Night Elf,alliance,257,Holy,368,206,Icecrown,6563116
+dps,108473556,19151485,Drfunknslicë,4,Rogue,3,Dwarf,alliance,260,Outlaw,468,236,Tichondrius,6563116
+healer,105097179,15961831,Kalimaata,2,Paladin,3,Dwarf,alliance,65,Holy,264,136,Area 52,9475843
+dps,105195893,5870601,Babybrain,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,9475843
+tank,106973632,14152304,Squishvegan,6,Death Knight,3,Dwarf,alliance,250,Blood,369,207,Illidan,9475843
+dps,108110208,4823272,Fivepercentx,10,Monk,3,Dwarf,alliance,269,Windwalker,264,136,Area 52,9475843
+dps,108441466,28405050,Biimoh,3,Hunter,3,Dwarf,alliance,255,Survival,465,235,Thrall,9475843
+healer,107103406,3096297,Aerithx,5,Priest,4,Night Elf,alliance,257,Holy,404,220,Moon Guard,8700867
+tank,108451214,10609671,Snapxd,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,8700867
+dps,108628245,32471484,Homiewitapet,3,Hunter,2,Orc,horde,255,Survival,334,185,Emerald Dream,8700867
+dps,109129460,37682293,Oxinator,1,Warrior,4,Night Elf,alliance,72,Fury,264,136,Area 52,8700867
+dps,109129461,37963758,Batzuul,9,Warlock,3,Dwarf,alliance,267,Destruction,367,205,Hyjal,8700867
+dps,25191484,16528268,Aofa,8,Mage,4,Night Elf,alliance,63,Fire,419,224,Proudmoore,6692644
+dps,105039583,37958336,Haodaya,9,Warlock,1,Human,alliance,267,Destruction,369,207,Illidan,6692644
+tank,106385670,20905873,Deadmission-106385670,6,Death Knight,4,Night Elf,alliance,250,Blood,369,207,Illidan,6692644
+dps,106839518,31445899,Haoheiya,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6692644
+healer,108107077,38328641,Treenewbelem,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,6692644
+healer,105084972,5339397,Lërne,7,Shaman,3,Dwarf,alliance,264,Restoration,264,136,Area 52,6446798
+dps,105155325,27970238,Kesstickler,3,Hunter,3,Dwarf,alliance,255,Survival,491,240,Zul'jin,6446798
+dps,105672616,8097210,Chungess,4,Rogue,3,Dwarf,alliance,260,Outlaw,428,231,Sargeras,6446798
+tank,107099046,132553,Kyrasis,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,6446798
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,6446798
+dps,19916112,17581805,Cosbytouch,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,9762521
+dps,78865395,9302472,Lexiahx,8,Mage,4,Night Elf,alliance,63,Fire,345,192,Frostmourne,9762521
+tank,82029209,17234234,Aerythea,6,Death Knight,29,Void Elf,alliance,250,Blood,345,192,Frostmourne,9762521
+healer,82398069,23003755,Zortheaux,5,Priest,1,Human,alliance,257,Holy,345,192,Frostmourne,9762521
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9762521
+dps,102713218,328628,Shadowmastr,4,Rogue,2,Orc,horde,260,Outlaw,396,216,Mal'Ganis,8954189
+tank,105102830,39043116,Yodadk,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,369,207,Illidan,8954189
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,8954189
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,8954189
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,8954189
+dps,57642927,2749402,Walluss,3,Hunter,34,Dark Iron Dwarf,alliance,255,Survival,428,231,Sargeras,6815784
+healer,105084972,5339397,Lërne,7,Shaman,3,Dwarf,alliance,264,Restoration,264,136,Area 52,6815784
+dps,105672616,8097210,Chungess,4,Rogue,3,Dwarf,alliance,260,Outlaw,428,231,Sargeras,6815784
+tank,107099046,132553,Kyrasis,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,6815784
+dps,108472744,38049880,Pepeloke,9,Warlock,3,Dwarf,alliance,267,Destruction,428,231,Sargeras,6815784
+dps,79526563,11244138,Hypz,9,Warlock,10,Blood Elf,horde,267,Destruction,396,216,Mal'Ganis,8892100
+dps,107454009,33477914,Sapheara,8,Mage,2,Orc,horde,63,Fire,468,236,Tichondrius,8892100
+dps,108628245,32471484,Homiewitapet,3,Hunter,2,Orc,horde,255,Survival,334,185,Emerald Dream,8892100
+tank,109048905,2648174,Frôststrike,6,Death Knight,3,Dwarf,alliance,250,Blood,491,240,Zul'jin,8892100
+healer,109110929,33759675,Snowrat,5,Priest,9,Goblin,horde,257,Holy,284,154,Bleeding Hollow,8892100
+dps,102713218,328628,Shadowmastr,4,Rogue,2,Orc,horde,260,Outlaw,396,216,Mal'Ganis,6708342
+dps,104864283,8599204,Spacemonkey-104864283,9,Warlock,3,Dwarf,alliance,266,Demonology,396,216,Mal'Ganis,6708342
+tank,105102830,39043116,Yodadk,6,Death Knight,34,Dark Iron Dwarf,alliance,250,Blood,369,207,Illidan,6708342
+dps,105508857,22750092,Cosmicqt,3,Hunter,3,Dwarf,alliance,255,Survival,428,231,Sargeras,6708342
+healer,107089484,36898802,Seraphinexd,11,Druid,4,Night Elf,alliance,105,Restoration,369,207,Illidan,6708342
+dps,99897466,9201927,Nickboltz,9,Warlock,2,Orc,horde,267,Destruction,396,216,Mal'Ganis,6435711
+healer,103771315,2928566,Jakbcastin,5,Priest,10,Blood Elf,horde,257,Holy,284,154,Bleeding Hollow,6435711
+tank,107107062,17924518,Qazidk,6,Death Knight,10,Blood Elf,horde,250,Blood,292,206,Burning Blade,6435711
+dps,107186607,5240675,Carmeezy-107186607,3,Hunter,3,Dwarf,alliance,255,Survival,468,236,Tichondrius,6435711
+dps,108665108,9964997,Humanitydh-108665108,12,Demon Hunter,4,Night Elf,alliance,577,Havoc,491,240,Zul'jin,6435711
+dps,57513052,8622962,Eternalhunt,3,Hunter,2,Orc,horde,255,Survival,422,227,Ragnaros,9882195
+dps,104751550,31731492,Yodakh,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,9882195
+dps,105173462,34295354,Lilflamer-105173462,9,Warlock,3,Dwarf,alliance,267,Destruction,264,136,Area 52,9882195
+healer,105507865,28566837,Twicks,5,Priest,9,Goblin,horde,257,Holy,264,136,Area 52,9882195
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,9882195
+dps,57496460,17652624,Jimmyjohns-57496460,4,Rogue,10,Blood Elf,horde,260,Outlaw,422,227,Ragnaros,9588077
+healer,104686917,28958103,Yumy-104686917,5,Priest,3,Dwarf,alliance,257,Holy,379,210,Kil'jaeden,9588077
+dps,104751550,31731492,Yodakh,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,9588077
+tank,107634574,39420184,Dkrogo,6,Death Knight,3,Dwarf,alliance,250,Blood,264,136,Area 52,9588077
+dps,107830331,37924547,Juicydrop,3,Hunter,3,Dwarf,alliance,255,Survival,264,136,Area 52,9588077
+dps,26577678,18998914,Shn,9,Warlock,3,Dwarf,alliance,267,Destruction,345,192,Frostmourne,9714680
+dps,57432547,30700715,Garchomprokz,8,Mage,1,Human,alliance,63,Fire,345,192,Frostmourne,9714680
+dps,101131167,38209883,Equitard,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,9714680
+healer,104898534,20107546,Etiquette,5,Priest,4,Night Elf,alliance,257,Holy,345,192,Frostmourne,9714680
+tank,105638733,24006557,Jaccflop,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9714680
+dps,25191484,16528268,Aofa,8,Mage,4,Night Elf,alliance,63,Fire,419,224,Proudmoore,6212532
+dps,105039583,37958336,Haodaya,9,Warlock,1,Human,alliance,267,Destruction,369,207,Illidan,6212532
+tank,106385670,20905873,Deadmission-106385670,6,Death Knight,4,Night Elf,alliance,250,Blood,369,207,Illidan,6212532
+dps,106839518,31445899,Haoheiya,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,6212532
+healer,108107077,38328641,Treenewbelem,5,Priest,4,Night Elf,alliance,257,Holy,369,207,Illidan,6212532
+dps,104751550,31731492,Yodakh,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,5468168
+tank,104804933,2083583,Gregddk,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,5468168
+dps,104813414,23081157,Pxh,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,5468168
+healer,105107604,238833,Lgaslidgfhai,5,Priest,4,Night Elf,alliance,257,Holy,396,216,Mal'Ganis,5468168
+dps,105221296,29905145,Haizr,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,5468168
+dps,57350559,11847397,Zepherous,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,9593433
+healer,107875512,38394760,Rainonz,5,Priest,3,Dwarf,alliance,257,Holy,345,192,Frostmourne,9593433
+tank,107875740,39000644,Shawrusz,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9593433
+dps,108840192,1043498,Ruatapu,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,9593433
+dps,109153013,35156648,Wheredps,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,9593433
+healer,59502823,11867728,Hastyqt,5,Priest,9,Goblin,horde,257,Holy,491,240,Zul'jin,9293209
+dps,87990452,22036160,Wolfalice,3,Hunter,10,Blood Elf,horde,255,Survival,264,136,Area 52,9293209
+tank,104951533,20521329,Dreamsdk,6,Death Knight,4,Night Elf,alliance,250,Blood,491,240,Zul'jin,9293209
+dps,108446208,2677729,Vashyx,4,Rogue,4,Night Elf,alliance,260,Outlaw,468,236,Tichondrius,9293209
+dps,108540428,31261473,Nepxh-108540428,3,Hunter,3,Dwarf,alliance,255,Survival,396,216,Mal'Ganis,9293209
+dps,57521622,12681073,Ássh,3,Hunter,10,Blood Elf,horde,255,Survival,422,227,Ragnaros,7510020
+dps,89534454,35720829,Lhz,8,Mage,2,Orc,horde,63,Fire,271,143,Azralon,7510020
+dps,105613024,38544876,Battantmrg,9,Warlock,3,Dwarf,alliance,267,Destruction,271,143,Azralon,7510020
+tank,105614278,36374885,Maølayking,6,Death Knight,3,Dwarf,alliance,250,Blood,271,143,Azralon,7510020
+healer,106311778,36798736,Claudinéte-106311778,5,Priest,4,Night Elf,alliance,257,Holy,271,143,Azralon,7510020
+dps,57468630,7977430,Banshers,3,Hunter,3,Dwarf,alliance,255,Survival,452,233,Stormrage,9354417
+dps,89602844,8525774,Karmma,9,Warlock,3,Dwarf,alliance,267,Destruction,452,233,Stormrage,9354417
+dps,95126897,21430070,Grumpz,3,Hunter,3,Dwarf,alliance,255,Survival,452,233,Stormrage,9354417
+healer,99385025,2509313,Nisari,5,Priest,4,Night Elf,alliance,257,Holy,452,233,Stormrage,9354417
+tank,107126349,0,Gauchislap,6,Death Knight,3,Dwarf,alliance,250,Blood,452,233,Stormrage,9354417
+dps,57521622,12681073,Ássh,3,Hunter,10,Blood Elf,horde,255,Survival,422,227,Ragnaros,7780767
+dps,89534454,35720829,Lhz,8,Mage,2,Orc,horde,63,Fire,271,143,Azralon,7780767
+dps,105613024,38544876,Battantmrg,9,Warlock,3,Dwarf,alliance,267,Destruction,271,143,Azralon,7780767
+tank,105614278,36374885,Maølayking,6,Death Knight,3,Dwarf,alliance,250,Blood,271,143,Azralon,7780767
+healer,106311778,36798736,Claudinéte-106311778,5,Priest,4,Night Elf,alliance,257,Holy,271,143,Azralon,7780767
+dps,26577678,18998914,Shn,9,Warlock,3,Dwarf,alliance,267,Destruction,345,192,Frostmourne,6863713
+dps,57350559,11847397,Zepherous,4,Rogue,4,Night Elf,alliance,260,Outlaw,345,192,Frostmourne,6863713
+dps,57447172,32264682,Rïchardpullr,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,6863713
+tank,82029209,17234234,Aerythea,6,Death Knight,29,Void Elf,alliance,250,Blood,345,192,Frostmourne,6863713
+healer,82398069,23003755,Zortheaux,5,Priest,1,Human,alliance,257,Holy,345,192,Frostmourne,6863713
+healer,57402626,18389697,Mawes,5,Priest,4,Night Elf,alliance,257,Holy,345,192,Frostmourne,9488415
+dps,83205129,36968033,Cerîturîa,3,Hunter,4,Night Elf,alliance,255,Survival,345,192,Frostmourne,9488415
+dps,101131167,38209883,Equitard,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,9488415
+dps,104717568,6568136,Dotz,9,Warlock,29,Void Elf,alliance,267,Destruction,345,192,Frostmourne,9488415
+tank,105899856,7028087,Tankprison,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,9488415
+tank,82029209,17234234,Aerythea,6,Death Knight,29,Void Elf,alliance,250,Blood,345,192,Frostmourne,8780609
+healer,82398069,23003755,Zortheaux,5,Priest,1,Human,alliance,257,Holy,345,192,Frostmourne,8780609
+dps,105720528,39094786,Eonjr,9,Warlock,1,Human,alliance,267,Destruction,345,192,Frostmourne,8780609
+dps,107226981,8354365,Bobybigspins,10,Monk,1,Human,alliance,269,Windwalker,345,192,Frostmourne,8780609
+dps,107528691,25778025,Ryuje,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,8780609
+dps,81212978,9964997,Humanitydh-81212978,12,Demon Hunter,10,Blood Elf,horde,577,Havoc,369,207,Illidan,4605088
+dps,99897466,9201927,Nickboltz,9,Warlock,2,Orc,horde,267,Destruction,396,216,Mal'Ganis,4605088
+healer,105068872,3356645,Tolu-105068872,5,Priest,3,Dwarf,alliance,257,Holy,367,205,Hyjal,4605088
+tank,107107062,17924518,Qazidk,6,Death Knight,10,Blood Elf,horde,250,Blood,292,206,Burning Blade,4605088
+dps,107186607,5240675,Carmeezy-107186607,3,Hunter,3,Dwarf,alliance,255,Survival,468,236,Tichondrius,4605088
+tank,90227104,28359578,Schlim,6,Death Knight,9,Goblin,horde,250,Blood,264,136,Area 52,9577401
+dps,105186983,29073496,Sarïn,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,9577401
+healer,108151180,24870042,Listerlean,5,Priest,4,Night Elf,alliance,257,Holy,491,240,Zul'jin,9577401
+dps,108223322,29121830,Avibe,3,Hunter,3,Dwarf,alliance,255,Survival,264,136,Area 52,9577401
+dps,108446208,2677729,Vashyx,4,Rogue,4,Night Elf,alliance,260,Outlaw,468,236,Tichondrius,9577401
+dps,104751550,31731492,Yodakh,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,5450741
+tank,104804933,2083583,Gregddk,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,5450741
+dps,104813414,23081157,Pxh,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,5450741
+dps,104906404,6754056,Muchas-104906404,9,Warlock,3,Dwarf,alliance,267,Destruction,491,240,Zul'jin,5450741
+healer,105107604,238833,Lgaslidgfhai,5,Priest,4,Night Elf,alliance,257,Holy,396,216,Mal'Ganis,5450741
+dps,97945286,37963758,Batzuul-97945286,9,Warlock,8,Troll,horde,267,Destruction,367,205,Hyjal,6932253
+dps,99991749,16781837,Nairda,4,Rogue,5,Undead,horde,260,Outlaw,468,236,Tichondrius,6932253
+healer,104632954,22750329,Cyndylou,5,Priest,4,Night Elf,alliance,257,Holy,367,205,Hyjal,6932253
+dps,105062490,244379,Bobas,1,Warrior,3,Dwarf,alliance,72,Fury,367,205,Hyjal,6932253
+tank,108312596,18464897,Netherdeath,6,Death Knight,3,Dwarf,alliance,250,Blood,367,205,Hyjal,6932253
+dps,104751550,31731492,Yodakh,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,4115736
+tank,104804933,2083583,Gregddk,6,Death Knight,3,Dwarf,alliance,250,Blood,468,236,Tichondrius,4115736
+dps,104813414,23081157,Pxh,3,Hunter,4,Night Elf,alliance,255,Survival,369,207,Illidan,4115736
+dps,104904313,8750786,Dabnel,10,Monk,3,Dwarf,alliance,269,Windwalker,264,136,Area 52,4115736
+healer,105107604,238833,Lgaslidgfhai,5,Priest,4,Night Elf,alliance,257,Holy,396,216,Mal'Ganis,4115736
+dps,104751550,31731492,Yodakh,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7045383
+dps,105673216,18708538,Ghxsth,3,Hunter,3,Dwarf,alliance,255,Survival,369,207,Illidan,7045383
+tank,106834935,37170090,Frostydw-106834935,6,Death Knight,3,Dwarf,alliance,250,Blood,369,207,Illidan,7045383
+dps,107096715,9964926,Tjuanalpha,1,Warrior,4,Night Elf,alliance,72,Fury,369,207,Illidan,7045383
+healer,108195005,38304233,Kigitude,5,Priest,3,Dwarf,alliance,257,Holy,369,207,Illidan,7045383
+dps,26577678,18998914,Shn,9,Warlock,3,Dwarf,alliance,267,Destruction,345,192,Frostmourne,6944108
+dps,57432547,30700715,Garchomprokz,8,Mage,1,Human,alliance,63,Fire,345,192,Frostmourne,6944108
+dps,85164911,5850772,Hunterbën,3,Hunter,3,Dwarf,alliance,255,Survival,345,192,Frostmourne,6944108
+healer,104898534,20107546,Etiquette,5,Priest,4,Night Elf,alliance,257,Holy,345,192,Frostmourne,6944108
+tank,105899856,7028087,Tankprison,6,Death Knight,3,Dwarf,alliance,250,Blood,345,192,Frostmourne,6944108
